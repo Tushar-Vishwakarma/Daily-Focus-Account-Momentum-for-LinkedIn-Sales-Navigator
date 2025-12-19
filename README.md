@@ -14,6 +14,9 @@ This project addresses that gap by shifting Sales Navigator from **static lead l
 * A UI that fits naturally within **existing Sales Navigator workflows**
 * PM thinking across **problem framing, solution design, and success metrics**
 
+<img width="1727" height="992" alt="image" src="https://github.com/user-attachments/assets/f7206bb5-5f9d-477e-86b0-8857fce40cd6" />
+
+
 ## 🧠 Core Idea
 
 Instead of showing sellers thousands of possible leads, **Daily Focus surfaces 5–7 priority accounts each day**, ranked by recent changes in buying momentum and relevance.
